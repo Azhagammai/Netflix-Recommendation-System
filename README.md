@@ -194,22 +194,13 @@ Thumbs.db
 
 ---
 
-## 👩‍💻 Author
-
-**Azhagammai**  
-B.Tech – Artificial Intelligence & Data Science  
-
----
-
-## 📜 License
-
-This project is developed for educational and learning purposes.
-
-
+<!--
 # Data Cleaning
 - notebook
       - load the dataset
-
+-->
+# SnapShot
+--
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
